@@ -1,2 +1,9 @@
 /.gtm/
 /.idea/
+wp-content/plugins/mailchimp-for-woocommerce/.idea/
+wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/docs/
+wp-content/plugins/woocommerce/src/Admin/
+wp-content/plugins/woocommerce/src/Blocks/
+wp-content/plugins/woocommerce/src/Vendor/
+wp-content/plugins/woocommerce/vendor/bin/
+wp-content/upgrade/
