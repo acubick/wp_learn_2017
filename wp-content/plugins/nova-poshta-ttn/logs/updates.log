@@ -1,0 +1,6 @@
+[2021-04-12 09:53:19] db_update.INFO: Areas were successfully updated, affected 25 rows, deleted 0 rows [] []
+[2021-04-12 09:53:30] db_update.INFO: Cities were successfully updated, affected 6092 rows, deleted 0 rows [] []
+[2021-04-12 09:53:46] db_update.INFO: Warehouses were successfully updated, affected 0 rows, deleted  rows [] []
+[2021-04-12 09:53:46] db_update.INFO: Areas were successfully updated, affected 25 rows, deleted 0 rows [] []
+[2021-04-12 09:53:56] db_update.INFO: Cities were successfully updated, affected 6092 rows, deleted 0 rows [] []
+[2021-04-12 09:54:12] db_update.INFO: Warehouses were successfully updated, affected 13234 rows, deleted 0 rows [] []
